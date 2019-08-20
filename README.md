@@ -3,4 +3,4 @@
 
 ### Authors
 - Emir Vatric -- [User Github link](https://github.com/EmirVatric)
-- Muhamed Abdellani -- [User Github link](https://github.com/abdellani)
+- Mohamed Abdellani -- [User Github link](https://github.com/abdellani)
